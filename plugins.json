@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "HDHub4u",
+    "version": 1,
+    "package": "com.myrepo.hdhub4u",
+    "author": "CSBOSS007",
+    "url": "https://githubusercontent.com",
+    "description": "Custom Movie Stream",
+    "language": "en",
+    "type": "tv",
+    "tvTypes": ["movie"],
+    "iconUrl": ""
+  }
+]
