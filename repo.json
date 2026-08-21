@@ -1,29 +1,8 @@
-[
-  {
-    "name": "HDHub4u",
-    "description": "Watch Bollywood, Hollywood, and Dual Audio movies",
-    "version": 1,
-    "package": "com.myrepo.hdhub4u",
-    "author": "CSBOSS007",
-    "url": "https://githubusercontent.com",
-    "iconUrl": "https://githubusercontent.com"
-  },
-  {
-    "name": "MoviesDrive",
-    "description": "Stream Ultra HD and 4K movies",
-    "version": 1,
-    "package": "com.myrepo.moviesdrive",
-    "author": "CSBOSS007",
-    "url": "https://githubusercontent.com",
-    "iconUrl": "https://githubusercontent.com"
-  },
-  {
-    "name": "MovieRulz",
-    "description": "Stream Telugu, Tamil, and Malayalam regional cinema",
-    "version": 1,
-    "package": "com.myrepo.movierulz",
-    "author": "CSBOSS007",
-    "url": "https://githubusercontent.com",
-    "iconUrl": "https://githubusercontent.com"
-  }
-]
+{
+  "name": "CSBOSS007 Custom Repo",
+  "description": "My personal repository for movies and series",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://githubusercontent.com"
+  ]
+}
