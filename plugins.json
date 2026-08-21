@@ -8,7 +8,9 @@
     "description": "Custom Movie Stream",
     "language": "en",
     "type": "tv",
-    "tvTypes": ["movie"],
+    "tvTypes": [
+      "movie"
+    ],
     "iconUrl": ""
   }
 ]
